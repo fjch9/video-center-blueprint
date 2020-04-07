@@ -163,9 +163,7 @@ class VideoCategories extends Component {
                         </div>
                     </nav>
                 </div>
-                <div>
-              Test!!
-            </div>
+
                 <div className="content-container">
                     { this.renderArticlesSections() }
                 </div>

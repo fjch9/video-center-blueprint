@@ -111,7 +111,7 @@ class LiveEvents extends Component {
     }
     render() {
         return (
-        <div>
+        <div class="test">
             <VideoCategories
                 categories={ this.state.categories }>
             </VideoCategories>

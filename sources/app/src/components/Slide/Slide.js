@@ -150,6 +150,7 @@ class Slide extends Component {
             </div>
             }
           </div>
+          Here!!!
         </Link>
       </div>
     );

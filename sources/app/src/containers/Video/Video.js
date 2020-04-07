@@ -201,6 +201,12 @@ class Video extends Component {
                                         <span className="inline-button__text">feedback</span>
                                     </div>
                                 </a>
+                                <a href="mailto:mail@mail.com" id="uservoice-video" className="video-details__links-link">
+                                    <div className="inline-button inline-button__text">
+                                        <FontAwesomeIcon className="inline-button__icon" icon={ faComment }/>
+                                        <span className="inline-button__text">Donate</span>
+                                    </div>
+                                </a>
                             </div>
                         </div>
 

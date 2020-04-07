@@ -22,6 +22,9 @@ class Hero extends Component {
               autoplay>
               <Slide slide={ this.state.heroContent[0] } hero={true} onChange={onChange}/>  {/* Hero content is always size 1, but comes into an array */}
             </Carousel>
+            <div>
+              Test!!
+            </div>
           </HeroHolder>
         }
       </div>
